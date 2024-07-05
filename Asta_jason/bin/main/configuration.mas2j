@@ -1,0 +1,8 @@
+MAS configuration{
+    infrastructure: Centralised
+
+    agents: banditore;
+            compratore #3;
+
+    aslSourcePath: "src/agt";
+}
